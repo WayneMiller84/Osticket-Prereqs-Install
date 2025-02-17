@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install / Enable ISS in Windows with CGI
 - On osTicket Installer/Prerequisites setup site
 - Config File Permission
-- Install osTicker in Browser
+- Install osTicket in Browser
 
 <h2>Installation Steps</h2>
 
