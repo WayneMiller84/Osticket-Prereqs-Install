@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Create Azure Virtual Machine
 - Item 2
 - Item 3
 - Item 4
@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![osTicket-vm](https://github.com/user-attachments/assets/6902e890-9443-4496-8715-72a4119150da)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created an Azure Virtual Machine with Windows 10, to log into the VM remote desktop to run the osTicket installion/setup using the IP Address
 </p>
 <br />
 
